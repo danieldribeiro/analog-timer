@@ -28,7 +28,7 @@ The clock is customizable to your liking. You can change the appearance of indic
 
 ## Demo
 
-You can see the clock in action [here](https://your-username.github.io/analog-clock).
+You can see the clock in action [here](https://danieldribeiro.github.io/analog-timer/).
 
 ## Usage
 
